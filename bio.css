@@ -1,0 +1,26 @@
+.moviehead{
+    font-size:20px;
+    border-radius:10px;
+    width:100%
+ display:inline-block;
+}
+.moviehead i{
+    float:right;
+}
+.movietext span{
+    color:darkorange
+}
+a{
+    text-decoration: underline;
+}
+.contact1 h3{
+    display:inline;
+}
+#contact{
+background:aliceblue;}
+#contact iframe{
+    width:100%;
+}
+.contact1 a{
+    text-shadow: 2px 2px lightgreen;
+}
